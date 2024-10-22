@@ -30,7 +30,7 @@
 #### 2.) HTTP Method GET :- Retrieve a specific book by ID. (ENDPOINT = /api/books/{id})
 #### 3.) HTTP Method POST :- Add a new book. (ENDPOINT = /api/books/{id})
 #### 4.) HTTP Method PUT :- Update an Existing book. (ENDPOINT = /api/books/{id})
-#### 5.) HTTP Method DELETE :- Delete a book. (ENNDPOINT = /api/books/{id})
+#### 5.) HTTP Method DELETE :- Delete a book. (ENDPOINT = /api/books/{id})
 
 ## Examples Requests and Resources
 #### 1.) Retrieve All Books:
